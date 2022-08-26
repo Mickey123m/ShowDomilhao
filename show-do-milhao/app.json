@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "show-do-milhao",
+    "slug": "show-do-milhao",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
